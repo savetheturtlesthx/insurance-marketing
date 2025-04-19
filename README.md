@@ -1,6 +1,7 @@
 # Marketing of unsought goods
 
-![sketch](canvas.png)
+![Specialty-goods Marketing PPP]
+
 
 ## Unsought good
 
