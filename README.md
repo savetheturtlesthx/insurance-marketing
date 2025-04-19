@@ -6,7 +6,7 @@
 
 ## Unsought good
 
-Insurance belongs to a special group of goods known as unsought goods (*Koller et al., 2020*). This group of goods is characterized by the fact that consumers are hardly informed about the products and alternatives and have little to no interest in buying the service. 
+Insurance belongs to a special group of goods known as unsought goods (*Kotler et al., 2020*). This group of goods is characterized by the fact that consumers are hardly informed about the products and alternatives and have little to no interest in buying the service. 
 The main problem is that the target group is not aware of the added values. At the same time, there is the advantage that consumers know less information about competitors' offers than is the case with physical goods.
 
 The following key challenges for unsought goods can be identified.
